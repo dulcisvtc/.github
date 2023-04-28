@@ -1,4 +1,4 @@
-# ![](https://avatars.githubusercontent.com/u/110196844?s=32) Dulcis Logistics
+# [![](https://avatars.githubusercontent.com/u/110196844?s=32)]() Dulcis Logistics
 
 ## Useful links
 - [Discord server](https://discord.gg/dulcis)
